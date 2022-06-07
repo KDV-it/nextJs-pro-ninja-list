@@ -12,10 +12,10 @@ export default function Home() {
       <div className={styles.container}>
         <h1 className={styles.title}>Homepage</h1>
         <p className={styles.text}>
-          This is my first project.
-          In this project, i practiced with some basic syntax of Next.Js framework.
-          I created some component, Link between some component.
-          I use API of jsonplaceholder to fetch data user.
+          This is my first project. <br />
+          In this project, i practiced with some basic syntax of Next.Js framework.<br />
+          I created some component, Link between some component.<br />
+          I use API of jsonplaceholder to fetch data user.<br />
           Let is go to try my website!
         </p>
         <Link href="/ninjas">
