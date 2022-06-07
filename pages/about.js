@@ -9,13 +9,12 @@ const About = () => {
       <div>
         <h1>About</h1>
         <p>
-          Mollit sit amet ex veniam minim non deserunt sint laboris voluptate
-          cupidatat excepteur. Nulla velit veniam sit ut fugiat amet aute
-          deserunt ad officia mollit. Ea mollit eiusmod amet anim culpa aliqua
-          id. Cupidatat consequat nostrud magna amet nulla culpa cillum.
-          Incididunt eiusmod exercitation eiusmod aliquip minim enim id sunt
-          duis amet anim fugiat aute officia. Proident laboris magna proident
-          occaecat est est adipisicing.
+          My name is Khang and this is my website, is builded by NextJs framework.
+          It's very basic about knowledge of NextJs.
+          If you have some feedback, you can contact me through 
+              <Link><a>Phone</a></Link>: 0385019964
+              <Link href="https://www.facebook.com/KDVIT0301/"><a>FACEBOOK: https://www.facebook.com/KDVIT0301/</a></Link>
+              Email: voduykhang312001@gmail.com
         </p>
       </div>
     </>
