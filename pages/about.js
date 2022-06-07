@@ -11,7 +11,7 @@ const About = () => {
         <h1>About</h1>
         <p>
           My name is Khang and this is my website, is builded by NextJs framework.
-          It's very basic about knowledge of NextJs.
+          It is very basic about knowledge of NextJs.
           If you have some feedback, you can contact me through 
               <Link><a>Phone</a></Link>: 0385019964
               <Link href="https://www.facebook.com/KDVIT0301/"><a>FACEBOOK: https://www.facebook.com/KDVIT0301/</a></Link>

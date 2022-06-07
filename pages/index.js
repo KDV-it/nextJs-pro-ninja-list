@@ -16,7 +16,7 @@ export default function Home() {
           In this project, i practiced with some basic syntax of Next.Js framework.
           I created some component, Link between some component.
           I use API of jsonplaceholder to fetch data user.
-          Let's go to try my website!
+          Let is go to try my website!
         </p>
         <Link href="/ninjas">
           <a className={styles.btn}>See Ninja Listing</a>
